@@ -14,3 +14,10 @@ img{
 # {
     background-color: #3498db; /* Culoare solidă albastru */
 }  
+
+.centru {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Să ocupe întreaga înălțime a ferestrei */
+}
